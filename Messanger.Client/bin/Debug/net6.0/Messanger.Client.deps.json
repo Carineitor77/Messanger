@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Messanger.Client/1.0.0": {
+        "runtime": {
+          "Messanger.Client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Messanger.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
